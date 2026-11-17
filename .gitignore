@@ -1,0 +1,2 @@
+task3/uploads_encrypted/*
+!task3/uploads_encrypted/.htaccess
